@@ -18,7 +18,7 @@ Para entrenar el modelo se necesitan muchos datos, y en especial para el problem
 
 
 ### Instalación
-En algunas carpetas puede encontrar un archivo `requirements.txt` que debe instalar con `pip`. Un requisito necesario para ejecutar el modelo en la nube, es que usted necesita todo en Ubuntu (o alguna distribución Linux), debido a la compatibilidad de `uWSGI`.
+En algunas carpetas puede encontrar un archivo `requirements.txt` que debe instalar con `pip`. Un requisito necesario para ejecutar el modelo en la nube, es que usted necesita Ubuntu obligatoriamente (o alguna distribución Linux), debido a la compatibilidad de `uWSGI`.
 
 Hay otras dependecias que debe instalar de forma separada, en primer lugar esta `ffmpeg`, luego siga los siguientes comandos:
 
